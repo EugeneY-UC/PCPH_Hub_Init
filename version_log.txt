@@ -1,2 +1,2 @@
 v0_0 -> initial version, User's and Admin's screens, presented on Nov 8, 2021
-
+v0_1 -> chargers(nodes) configuration
